@@ -1,0 +1,4 @@
+com\wang\controller\LoginController.class
+com\wang\config\LoginInterceptor.class
+com\wang\controller\TestController.class
+com\wang\config\MyInterceptor.class
